@@ -7,14 +7,14 @@
         <version>3.5.3-RELEASE</version>
     </parent>
 
-    <artifactId>simple_train</artifactId>
+    <artifactId>iuap-simpletrain</artifactId>
 
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_train</name>
+    <name>iuap-simpletrain</name>
     <url>http://maven.apache.org</url>
     <build>
-        <finalName>simple_train</finalName>
+        <finalName>iuap-simpletrain</finalName>
     </build>
 
     <dependencies>
